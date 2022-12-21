@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IsaiahBicar
 - 👀 I’m interested in ... Ai and Machine Learning. Creating website and applications.
-- 🌱 I’m currently learning ... Java, JS, Python
-- 💞️ I’m looking to collaborate on ... I dont know yet
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Java, JS, Python,CSS
+- 💞️ I’m looking to collaborate on ... projects that includes frontend and backend devlopment.
 
 <!---
 IsaiahBicar/IsaiahBicar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
